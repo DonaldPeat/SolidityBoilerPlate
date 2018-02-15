@@ -1,2 +1,2 @@
 # solidity-contract
-# boiler plate ethereum smart contract application
+boiler plate ethereum solidity contract
